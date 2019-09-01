@@ -320,7 +320,6 @@ figlet "WAIT"|lolcat
 sleep 2
 cd Report
 unzip Report.zip
-python2 Report.py
 fi
 
 if [ $pil = 20 ]
